@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Xavier Smith
+# Xavier Smith's First CS193 Homework
 
 - The instructors are friendly and interactive
 - Learning about how to better use the command line is essential
